@@ -2,19 +2,19 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Jason Lee 4Dx
+title: Jason Lee 3D Portfolio
 # description: This will be meta HTML tag content. This can be ignored.
-description: aspiring 3D content creator
+description: aspiring 3D technical artist
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Jason Lee - landing page
+username: Jason Lee
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: aspiring 3D content creator
+typing_text: aspiring 3D technical artist
 # email: Your E-Mail address for the email button.
 email: jasonflee@arizona.edu
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi! My name's Jason<a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Hi! My name's Jason, and I am a student at the University of Arizona currently studying Film & Television. <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 
 # SKILLS SECTION
 # show_skills_card:
